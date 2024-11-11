@@ -13,8 +13,8 @@ Check your system's maximum column with the pd.options.display.max_column statem
 ### Step 5:
 Increase the maximum number of rows to display the entire DataFrame.
 ## PROGRAM:
-### Developed By: Suriya Pravin M
-### Registration No: 212223230223
+### Developed By: KAMALESH Y
+### Registration No: 24004024
 ```
 import pandas as pd
 df = pd.read_csv('nba.csv')
